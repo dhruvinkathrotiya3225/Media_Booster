@@ -1,16 +1,3 @@
-# audio
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20221013_175415 - Copy](https://user-images.githubusercontent.com/113818392/195595719-3c442cdd-6605-4ee2-85df-6cb9f53365dd.jpg)
+![Screenshot_20221013_175422 - Copy](https://user-images.githubusercontent.com/113818392/195595724-21a9c9ac-18dd-4039-b604-3d3032b1b3fb.jpg)
+![Screenshot_20221013_175422 - Copy](https://user-images.githubusercontent.com/113818392/195595751-e7590dbc-4c59-4001-b466-9ef6af1ab4dd.jpg)
